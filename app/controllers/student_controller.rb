@@ -1,1 +1,2 @@
-class Stunden
+class StudentController < ApplicationController 
+end 
